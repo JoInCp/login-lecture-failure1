@@ -1,3 +1,5 @@
 "use strict";
 
-console.log("Hello");
+console.log("hello");
+console,log("bye");
+console.log("gg");
